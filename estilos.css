@@ -1,0 +1,15 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.video_contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5cm;
+    flex-direction: column;
+}
+.name-video{
+    color: blue;
+    font-size: 1cm;
+    text-align: center;
+}
